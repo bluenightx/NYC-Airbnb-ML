@@ -148,7 +148,7 @@ NYC-Airbnb-ML/
 ## 👨‍💻 Author
 
 **Anaísa Sena**   
-GitHub: [AnaisaSena](https://github.com/bluenightx)
+GitHub: [AnaisaSena](https://github.com/anaisa-s)
 
 **Madhuridevi Dharmaraj**   
 GitHub: [MadhurideviDharmaraj](https://github.com/MadhurideviD)
