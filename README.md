@@ -142,7 +142,7 @@ NYC-Airbnb-ML/
 ## 🔗 Sources & References
 
 - [NYC Aibnb data 2024](https://www.kaggle.com/datasets/vrindakallu/new-york-dataset)
-- [📊 Final Presentation ](https://www.canva.com/design/DAGzysq-lm4/KefSm9MJj-55x8RIL7Qu9Q/edit?utm_content=DAGzysq-lm4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton): Overall project and key findings.
+- [📊 Final Presentation ](https://www.canva.com/design/DAGwRaJOshU/c8D_6Pj9DCQIhYEQJL2oPw/edit?utm_content=DAGwRaJOshU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton): Overall project and key findings.
 
 ---
 ## 👨‍💻 Author
